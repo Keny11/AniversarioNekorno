@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(assets/ballons.jpg) repeat;
+}
+
+#musicaHeader {
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #ffffffee;
+    align-items: center;
+}
+
+#musicaHeader audio {
+    display: inline;
+}
+
+#musicaHeader p {
+    display: inline;
+    margin-left: 1%;
+}
+
+header {
+    border: 10px dotted yellow;
+    background-color: pink;
+    margin: 2%;
+    padding: 1%;
+    color: blue;
+}
+
+main {
+    border: 10px outset blue;
+    background: url(assets/universe.jpg) repeat;
+    padding: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: blue;
+}
+
+.nekorno-fanart {
+    margin-top: 40px;
+    display: block;
+}
+
+h1, h2 {
+    color: red; 
+}
+
+#nekornoMILF {
+    max-width: 100%;
+}
+
+#nekornoCake {
+    max-width: 100%;
+}
+
+#nekornoJotan {
+    max-width: 100%;
+}
+
+#nekornoVieira {
+    max-width: 100%;
+}
+
+#nekornoCaixo {
+    max-width: 100%;
+}
+
+#nekornoKeny {
+    max-width: 100%;
+}
+
+#nekornoFragD {
+    max-width: 100%;
+}
+
+#cake {
+    max-width: 100%;
+}
+
+#nekornoJotan2 {
+    max-width: 100%;
+}
+
+footer {
+    border: 10px dotted yellow;
+    margin: 2%;
+    padding: 1%;
+    background-color: pink;
+    color: blue;
+}
